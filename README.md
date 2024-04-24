@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">- ⚒️ I’m working as a web developer<br>- 📔 I'm currently learning cloud programming & terraform<br>- ⚡ In my free time, I like to study economy</p>
+<p align="left">- ⚒️ I'm working as a web developer<br>- 📔 I'm currently learning cloud programming & terraform<br>- ⚡ In my free time, I like to study economy</p>
 
 ###
 
