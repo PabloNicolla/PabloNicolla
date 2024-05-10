@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Pablo, and I'm an aspiring Software Developer!</h2>
+<h2 align="left">Hi! 👋 My name is Pablo!</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloNicolla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="175" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=pablonicolla&theme=dracula" height="175"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloNicolla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="175" alt="languages graph"  />
 </div>
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">- 💻 I'm working on web projects<br>- 📔 I'm currently learning cloud programming & terraform<br>- ⚡ In my free time, I like to study economy</p>
+<p align="left">- 💻 I'm working on fullstack web projects<br>- 📔 I'm currently learning cloud programming & terraform<br>- ⚡ In my free time, I like to study economy</p>
 
 ###
 
