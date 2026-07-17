@@ -1,13 +1,6 @@
 <h2 align="left">Hi! 👋 My name is Pablo!</h2>
 
 ###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pablonicolla&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloNicolla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=PabloNicolla&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
 
 <h2 align="left">👨‍💻  About Me</h2>
 
@@ -49,11 +42,5 @@
     <img src="https://skillicons.dev/icons?i=electron,go,jenkins,jest,kafka,kotlin,kubernetes,lua,rust,opencv,postman" />
   </a>
 </p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PabloNicolla/PabloNicolla/output/snake.svg" alt="Snake animation" />
 
 ###
